@@ -1,0 +1,17 @@
+.app {
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    background-color: #dadbd3;
+}
+
+.app_body {
+    display: flex;
+    background-color: #ededed;
+    margin-top: -40px;
+    height: 90vh;
+    width: 90vw;
+    box-shadow: -1px 4px 20px -6px rgba(0,0,0,0.75); 
+    background: linear-gradient(180deg, #ededed, #c4c4c4, #b4b4b4);
+    background-image: url('https://wallpapercave.com/wp/wp4892377.jpg');
+}
